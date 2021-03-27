@@ -11,3 +11,5 @@ vendor
 demo
 _site
 .jekyll-cache
+goorm.manifest
+.gitignore
